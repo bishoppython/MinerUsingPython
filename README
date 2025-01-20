@@ -24,10 +24,10 @@
    - [Site Unmineable](https://unmineable.com/)
 
    ### No site da Unmineable:
-   5.1. Escolha a moeda que deseja minerar;  
-   5.2. Observe as configurações recomendadas;  
-   5.3. Crie uma carteira (wallet);  
-   5.4. Copie o endereço da moeda que deseja minerar.
+   - 5.1. Escolha a moeda que deseja minerar.  
+   - 5.2. Observe as configurações recomendadas.  
+   - 5.3. Crie uma carteira (wallet).  
+   - 5.4. Copie o endereço da moeda que deseja minerar.
 
 6. **Configurar o script em Python**
    - Codifique as configurações de mineração no Python. Certifique-se de incluir o endereço da sua wallet e as configurações do minerador.
@@ -48,4 +48,3 @@
 A mineração de criptomoedas é um processo intensivo em recursos, portanto, esteja ciente do impacto no hardware e no consumo de energia antes de iniciar. Este guia fornece os passos básicos para começar, mas o sucesso da mineração dependerá de diversos fatores, como a moeda escolhida, o hardware disponível e as configurações aplicadas.
 
 Boa mineração!
-
